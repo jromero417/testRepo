@@ -22,7 +22,7 @@ import org.junit.runner.RunWith;
         //html plugin is generating the report, this report will be generated under target folder
         plugin = {"pretty","html:target/cucumber.html","json:target/cucumber.json"}
 )
-
+///////
 
 public class RegressionRunner {
 }
