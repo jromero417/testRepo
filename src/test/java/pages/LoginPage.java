@@ -7,8 +7,8 @@ import utils.CommonMethods;
 
 public class LoginPage extends CommonMethods {
 
-    //this is object repository of POM
-
+//    this is object repository of POM
+//dfdsfsdf
     @FindBy(xpath="//*[@id='txtUsername']")
     public WebElement usernameField;
 
